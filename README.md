@@ -1,6 +1,6 @@
 # ml_basics
 ## Description:
-This is my modest collection of solutions different ml tasks. 
+This is my modest collection of some solutions to various ml tasks. 
 ## Navigation through ml topics
 * **Linear Regression**  
   [Predicting laptop price](https://github.com/v4ndi/ml_basics/tree/master/LinearRegressionPredictLaptopPrice)
